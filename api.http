@@ -1,1 +1,5 @@
 GET http://localhost:8080/healthy
+
+###
+
+POST http://localhost:8080/categories
